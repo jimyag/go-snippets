@@ -1,4 +1,4 @@
-module github.com/darjun/interfaces
+module github.com/jimyag/interfaces
 
 go 1.18
 

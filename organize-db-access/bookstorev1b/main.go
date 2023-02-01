@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/darjun/bookstore/models"
+	"github.com/jimyag/bookstore/models"
 )
 
 func main() {

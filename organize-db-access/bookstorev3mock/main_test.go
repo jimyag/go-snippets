@@ -1,10 +1,11 @@
 package main
 
 import (
-	"github.com/darjun/bookstore/models"
 	"net/http"
 	"net/http/httptest"
 	"testing"
+
+	"github.com/jimyag/bookstore/models"
 )
 
 type mockBookModel struct{}

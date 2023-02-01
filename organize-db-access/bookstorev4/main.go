@@ -7,7 +7,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/darjun/bookstore/models"
+	"github.com/jimyag/bookstore/models"
 )
 
 // Create some middleware which swaps out the existing request context

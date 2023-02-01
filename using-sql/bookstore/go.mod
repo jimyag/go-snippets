@@ -1,4 +1,4 @@
-module github.com/darjun/bookstore
+module github.com/jimyag/bookstore
 
 go 1.16
 

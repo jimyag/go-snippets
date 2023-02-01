@@ -1,3 +1,3 @@
-module github.com/darjun/json-gotchas
+module github.com/jimyag/json-gotchas
 
 go 1.18

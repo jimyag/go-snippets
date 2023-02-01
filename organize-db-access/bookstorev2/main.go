@@ -6,7 +6,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/darjun/bookstore/models"
+	"github.com/jimyag/bookstore/models"
 )
 
 // Create a custom Env struct which holds a connection pool.

@@ -1,4 +1,4 @@
-module github.com/darjun/slow-query
+module github.com/jimyag/slow-query
 
 go 1.16
 

@@ -1,4 +1,4 @@
-module github.com/darjun/use-redigo
+module github.com/jimyag/use-redigo
 
 go 1.18
 
